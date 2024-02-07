@@ -16,3 +16,34 @@ This project is a clone of Google Keeper, a note-taking application, built using
 - **HTML:** Markup language for structuring the content of web pages.
 - **CSS:** Stylesheet language for describing the look and formatting of a document.
 
+
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/DanTiw/Google-Keeper-App-Clone
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd google-keeper-clone
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+   This will open the application in your default web browser.
